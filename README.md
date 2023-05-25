@@ -1,6 +1,6 @@
 # 🤖 MOOD TRACKER APP <a name="readme-top"></a>
 
-# 📗 Table of Contents
+## 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
   - [🛠 Built With](#built-with)
@@ -30,13 +30,12 @@
 
 <details>
   <summary>Client</summary>
-  <ul>
-    <li><a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics">HTML5</a></li>
-    <li><a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics">CSS</a></li>
-    <li><a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics">JAVASCRIPT</a></li>
-    <li><a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics">TAILWIND</a></li>
-  </ul>
+  - [HTML5](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
+  - [CSS](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics)
+  - [JavaScript](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics)
+  - [Tailwind](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics)
 </details>
+
 
 ### Key Features <a name="key-features"></a>
 
