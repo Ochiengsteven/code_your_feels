@@ -11,7 +11,6 @@
   - [Setup](#setup)
   - [Install](#install)
   - [Usage](#usage)
-  - [Run tests](#run-tests)
   - [Deployment](#deployment)
 - [👤 Author](#author)
 - [🔭 Future Features](#future-features)
