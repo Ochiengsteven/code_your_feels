@@ -1,5 +1,4 @@
-<a name="readme-top"></a>
-
+# 🤖 MOOD TRACKER APP <a name="readme-top"></a>
 
 # 📗 Table of Contents
 
@@ -21,7 +20,7 @@
 - [🙏 Acknowledgements](#acknowledgements)
 - [❓ FAQ](#faq)
 
-# 📖 MOOD TRACKER <a name="about-project"></a>
+## 📖 INTRODUCTION <a name="about-project"></a>
 
 **MOOD TRACKER** is a responsive, and optimized web app for suggesting different activities for an individual to practice based on his/her mood.
 
