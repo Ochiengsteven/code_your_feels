@@ -90,23 +90,6 @@ npm install
 
 - A video explaining how to use the web app [video](https://www.loom.com/share/12a5c7dd735b4b4a93879ba52d43b29d).
 
-### Run tests
-
-To run tests, run the following command:
-
-- Track HTML linter errors run:
-```
-npx hint .
-```
-- Track CSS linter errors run:
-```
-npx stylelint "**/*.{css,scss}"
-```
-- Track JavaScript linter errors run:
-```
-npx eslint .
-```
-
 ### Deployment <a name="deployment"></a>
 
 You can deploy this project using: GitHub Pages,
