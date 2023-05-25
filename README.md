@@ -46,7 +46,7 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 🚀 Live Demo <a name="live-demo"></a>
+## 🚀 Live Demo <a target="_blank" name="live-demo"></a>
 
 - You can find the website [here](https://ochiengsteven.github.io/code_your_feels/)
 
