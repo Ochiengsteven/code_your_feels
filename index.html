@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mood Tracker</title>
+    <link rel="stylesheet" href="style.css" />
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://kit.fontawesome.com/ae6d799c5c.js" crossorigin="anonymous"></script>
+  </head>
+  <body>
+    <header class="mx-auto py-4">
+      <div class="container mx-auto px-4">
+        <h1 class="text-8xl font-bold">Mood Tracker</h1>
+      </div>
+    </header>
+    <main class="container mx-auto px-4 py-8">
+      <form>
+        <div class="mb-4">
+          <label class="block text-gray-700 font-bold mb-2" for="mood">
+            How are you feeling today?<i class="fa-solid fa-face-smile"></i>
+          </label>
+          <select class="border border-gray-400 p-2 rounded w-full" id="mood">
+            <option value="">Select mood...</option>
+            <option value="happy">Happy</option>
+            <option value="sad">Sad</option>
+            <option value="anxious">Anxious</option>
+            <option value="angry">Angry</option>
+            <option value="stressed">Stressed</option>
+            <option value="tired">Tired</option>
+            <option value="excited">Excited</option>
+            <option value="content">Content</option>
+            <option value="other">Other</option>
+          </select>
+        </div>
+      </form>
+      <div class="mt-8" id="activity-suggestions"></div>
+    </main>
+    <script src="./app.js"></script>
+  </body>
+</html>
